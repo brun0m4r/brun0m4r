@@ -1,55 +1,57 @@
 # 👨‍💻 Bruno Marinich
 
-Desarrollador **Full-Stack** con 3 años de experiencia construyendo aplicaciones web modernas y escalables. Especializado en **TypeScript**, con fuerte dominio de tecnologías como **NestJS**, **React**, **Firebase** y herramientas de inteligencia artificial como **TensorFlow.js**. Apasionado por resolver problemas complejos con soluciones limpias, eficientes y mantenibles.
+Full-stack developer with 3 years of experience building modern and scalable web applications. I specialize in **TypeScript** and have strong skills in **React**, **NestJS**, and **Firebase**. I enjoy solving complex problems with clean and efficient code, and I have experience using **AI tools** like TensorFlow.js.
 
-## 🚀 Tecnologías y herramientas
+## 🚀 Tech Stack
 
-- **Lenguajes:** TypeScript, JavaScript  
+- **Languages:** TypeScript, JavaScript  
 - **Frontend:** React, Next.js, Tailwind CSS, HLS.js  
 - **Backend:** Node.js, NestJS, Express, WebSockets, Socket.IO  
 - **Cloud & DevOps:** Firebase (Auth, Firestore, Functions), Google Cloud Run, Cloud Storage  
-- **IA & ML:** TensorFlow.js, ajuste fino de modelos GPT  
-- **Otros:** JWT, Stripe, sistemas de autenticación personalizados
+- **AI & Machine Learning:** TensorFlow.js, fine-tuning GPT models  
+- **Other:** JWT authentication, Stripe integration
 
-## 🧠 Habilidades blandas
+## 💡 Soft Skills
 
-- Pensamiento lógico y analítico  
-- Resolución de problemas  
-- Liderazgo técnico  
-- Comunicación efectiva  
-- Trabajo en equipo
+- Logical and analytical thinking  
+- Problem solving  
+- Teamwork and communication  
+- Technical leadership  
+- Critical thinking
 
-## 🧪 Proyectos destacados
+## 🧪 Highlight Projects
 
-### 🥗 [NutritionDash](https://github.com/brun0m4r)
-Plataforma full-stack de nutrición personalizada:
+### 🥗 [NutritionDash](https://github.com/brun0m4r)  
+A full-stack nutrition platform:
 
-- Arquitectura completa con React y NestJS
-- Motor de recomendaciones personalizado basado en IA
-- Integración de Stripe con control de acceso avanzado
-- Sistema de autenticación con JWT + fingerprint de dispositivo
+- Built full architecture with React and NestJS  
+- AI-powered recommendation system based on genetics  
+- Integrated Stripe with advanced access control  
+- Custom user authentication using JWT and device fingerprint
 
-### ✅ Clasificador de Productos para Celíacos
-- Sistema de clasificación automática con IA usando TensorFlow
-- Separación modular entre entrenamiento y producción
+### ✅ Product Classifier for Celiac Disease  
+AI-based system using TensorFlow to classify food products as gluten-free or not:
 
-## 💼 Experiencia profesional
+- Led design and implementation  
+- Modular structure: training vs production classification
+
+## 💼 Work Experience
 
 **Full Stack Engineer @ GUNDO**  
-📍 Argentina (Remoto)  
-🗓️ Abril 2022 - Actualidad
+📍 Argentina (Remote)  
+🗓️ April 2022 – Present
 
-## 🎓 Formación
+## 🎓 Education
 
-- **Ingeniería en Sistemas** – UTN (2020–2023)  
-- **Full Stack Developer** – Soy Henry (2022–2023)
+- **Software Engineering** – UTN (2020–2023)  
+- **Full Stack Developer Bootcamp** – Soy Henry (2022–2023)
 
-## 🌍 Idiomas
+## 🌍 Languages
 
-- Español (nativo)  
-- Inglés (B2)
+- Spanish: Native  
+- English: B2 (Upper Intermediate)
 
-## 📫 Contacto
+## 📫 Contact
 
 - Email: brunomarinich@gmail.com  
 - LinkedIn: [bruno-marinich](https://www.linkedin.com/in/bruno-marinich-6b7686222)  
